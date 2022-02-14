@@ -8,7 +8,7 @@ In Industry, specially manufacturing industry, Personal Protective Equipment (PP
 * YOLOV5 is used for detecting persons with proper PPE and those without PPE.
 * An alert is raised if a person is found to be without proper PPE for more than some set duration, say 5 seconds
 
-### No Mask
+### Demo
 
 ![image](ReadmeFile/Demo1.png)
 
