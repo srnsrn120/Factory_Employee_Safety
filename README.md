@@ -10,7 +10,7 @@ In Industry, specially manufacturing industry, Personal Protective Equipment (PP
 
 ### Demo
 
-![image](ReadmeFile/Demo1.png)
+![image](ReadmeFile/demo1.png)
 
 
 
